@@ -1,0 +1,15 @@
+suite_namespace: backend\tests\unit
+actor: UnitTester
+modules:
+  enabled:
+    - Yii2:
+        part: [ orm, email, fixtures ]
+        transation: false
+    - Asserts
+    - Db:
+        dsn: 'mysql:host=localhost;dbname=healthify_tests'
+        user: 'root'
+        password: ''
+        cleanup: false
+        dump: 'tests/_data/dump.sql'
+        populate: true

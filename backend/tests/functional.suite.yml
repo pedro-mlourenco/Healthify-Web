@@ -1,0 +1,12 @@
+suite_namespace: backend\tests\functional
+actor: FunctionalTester
+modules:
+  enabled:
+    - Yii2
+    - Db:
+        dsn: 'mysql:host=localhost;dbname=healthify_tests'
+        user: 'root'
+        password: ''
+        cleanup: false
+        dump: 'tests/_data/dump.sql'
+        populate: true
