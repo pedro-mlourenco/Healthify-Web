@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Knowledge-Hoarder/Healthify-Web.git">
+  <a href="https://github.com/pedro-mlourenco/Healthify-Web.git">
     <img src="images/logo.png" alt="Logo" width="80" height="80" style="border-radius: 30%">
   </a>
 
@@ -65,7 +65,7 @@ Furthermore, the integration with the Android app enhances the overall experienc
 1. Get a free API Key at [https://calorieninjas.com/](https://calorieninjas.com/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Knowledge-Hoarder/Healthify-Web.git
+   git clone https://github.com/pedro-mlourenco/Healthify-Web.git
    ```
 3. Install Composer packages
    ```sh
@@ -145,7 +145,7 @@ environments/            contains environment-based overrides
 
 Pedro M Lourenço - pedrolourenco.me@gmail.com
 
-Project Link: [https://github.com/Knowledge-Hoarder/Healthify-Web.git](https://github.com/Knowledge-Hoarder/Healthify-Web.git)
+Project Link: [https://github.com/pedro-mlourenco/Healthify-Web.git](https://github.com/pedro-mlourenco/Healthify-Web.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
